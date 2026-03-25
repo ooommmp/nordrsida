@@ -4,7 +4,7 @@ const companies = [
   {
     name: "Drífa.is",
     description:
-      "Iceland's online destination for tyres — simple, digital, delivered.",
+      "Iceland's online destination for tyres. Simple, digital, delivered.",
     href: "https://drifa.is",
   },
   {

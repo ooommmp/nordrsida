@@ -17,11 +17,11 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Nordr — Nordic Group",
+  title: "Nordr | Nordic Group",
   description:
     "Nordr is an Icelandic holding group building companies that shape the future of the North. Home to Drífa.is, nordr.agency, and nordr.tech.",
   openGraph: {
-    title: "Nordr — Nordic Group",
+    title: "Nordr | Nordic Group",
     description:
       "An Icelandic holding group building companies that shape the future of the North.",
     type: "website",

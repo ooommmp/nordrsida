@@ -22,7 +22,7 @@ export default function Hero() {
         style={{ animationDelay: "0.35s" }}
       >
         Nordr is an Icelandic holding group. We invest in and build companies
-        across technology, creative services, and consumer commerce — united by a
+        across technology, creative services, and consumer commerce, united by a
         drive to create lasting value from the North.
       </p>
     </section>
